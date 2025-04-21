@@ -21,7 +21,7 @@ Esta práctica les permitirá:
 | GET    | `/productos` | `[ "Mouse", "Teclado", "Monitor" ]`               | JSON       |
 | GET    | `/materias` | `[ { "nombre": "Matemática" }, { "nombre": "Lengua" } ]` | JSON |
 
-##Extras
+## Extras
 
 - Incorporar un arrary de objetos "Personas" vacio.
   - Armar un endpoint que agregue una nueva persona
