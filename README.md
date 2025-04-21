@@ -23,7 +23,7 @@ Esta práctica les permitirá:
 
 ## Extras
 
-- Incorporar un arrary de objetos "Personas" vacio.
+- Incorporar un array de objetos "Personas" vacio.
   - Armar un endpoint que agregue una nueva persona
   - Armas un endpoint que muestre los datos del array personas
 
