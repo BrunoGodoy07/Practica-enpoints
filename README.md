@@ -20,3 +20,13 @@ Esta práctica les permitirá:
 | GET    | `/usuario` | `{ "nombre": "Ana", "edad": 25 }`                   | JSON       |
 | GET    | `/productos` | `[ "Mouse", "Teclado", "Monitor" ]`               | JSON       |
 | GET    | `/materias` | `[ { "nombre": "Matemática" }, { "nombre": "Lengua" } ]` | JSON |
+
+##Extras
+
+- Incorporar un arrary de objetos "Personas" vacio.
+  - Armar un endpoint que agregue una nueva persona
+  - Armas un endpoint que muestre los datos del array personas
+
+- En base al mismo array
+  - Armar un endpoint para borrar a una persona en particular
+  - Checkear que la persona a borrar exista, sino mostrar un mensaje de 'Persona no encontrada'
